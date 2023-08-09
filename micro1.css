@@ -1,0 +1,129 @@
+header{
+    background-color: #FFCD9E;
+    display: flex; 
+    width: 100%;
+    padding-left: 7%;
+    padding-top: 3%;
+}
+#heding{
+width: 562px;
+color: #282828;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 54px */
+}
+#pheding{
+display: flex;
+width: 495px;
+height: 81px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #484848;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 160%; /* 32px */
+
+}
+#boldteg{
+    display: flex;
+width: 227px;
+height: 81px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #282828;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: 160%; /* 32px */
+}
+#inputtext{
+    border: 2px solid black;
+    font-size: 20px;
+    padding-left: 20px;
+    border: 3px solid black;
+    border-radius: 6px;
+    width: 250px;
+height: 50px;
+}
+#button{
+    background-color: black;
+    color: white;
+    width: 216px;
+    height: 80px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    height: 45px;
+    border-radius: 6px;
+    border: none;
+    font-size: 20px;
+}
+#hright{
+    display: inline-flex;
+    height: 500px;
+    padding: 60.395px 80.61px 60.155px 85.87px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+#Uleftimg{
+    width: 393.52px;
+height: 442.45px;
+flex-shrink: 0;
+fill: #100F0D;
+}
+
+footer {
+    background-color: black;
+
+    color: white;
+    width: 1440px;
+    height: 298px;
+   flex-shrink: 0;
+    display: flex;
+    /* justify-content: space-around; */
+}
+
+#bottom-left {
+width: 216px;
+height: 36px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 32px */
+}
+
+#bottom-left li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+#bottom-right {
+    margin-left: 680px;
+}
+
+#bottom-right ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+
+#bottom-right li {
+    margin-bottom: 10px;
+}
+
+#bottom-right img {
+    width: 20px;
+    margin-bottom: 35px;
+}
